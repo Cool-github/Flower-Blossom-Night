@@ -6,33 +6,13 @@
   <strong>Pure HTML + CSS • Smooth Animation • Aesthetic Night Sky</strong>
 </p>
 
-<p align="center">
-  <img src="assets/preview.png" alt="Flower Blossom Night Preview" width="600"/>
-</p>
-
----
-
-## 🌟 Live Preview
-
-> 🌐 _Coming Soon..._  
-<!-- If hosted, you can use: https://your-live-link.com -->
+![image](https://github.com/user-attachments/assets/67323202-c91e-41dd-bb60-decf658ced30)
 
 ---
 
 ## 🧠 About The Project
 
 **Flower Blossom Night** is a visually rich, animated project created entirely with **HTML and CSS**. It features elegant flowers gently blooming in a tranquil night setting. Every petal and stem is crafted with precision using only CSS, demonstrating the magic of front-end design without a single line of JavaScript.
-
----
-
-## 📸
-
-
-<table>
-  <tr>
-    <td><img src="image.png" alt="Preview" width="100%"/></td>
-  </tr>
-</table>
 
 ---
 
